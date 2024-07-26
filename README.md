@@ -1,2 +1,2 @@
 # solarCalculator
-Probando que funcione correctamente
+Este es el texto del README
